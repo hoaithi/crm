@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SUMMER23/SWP391/CRM/web/views/roles/update.jsp</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/src/java/models/Roles.java</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/web/views/roles/create.jsp</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/web/layouts/main.jsp</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/src/java/models/Jobs.java</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/src/java/repositories/RolesRepository.java</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/src/java/models/Tasks.java</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/web/views/roles/listOf.jsp</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/web/views/users/listOf.jsp</file>
+            <file>file:/D:/SUMMER23/SWP391/CRM/src/java/controllers/RolesController.java</file>
+        </group>
+    </open-files>
+</project-private>
